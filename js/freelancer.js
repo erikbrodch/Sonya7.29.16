@@ -45,8 +45,8 @@
 //typing animation
         $(function(){
                 $(".name").typed({
-                    strings: ["Hi There, ^500 I'm Sonya, Your Crowdfunding Consultant. ^500", 
-                    "I'm Here To Give You Simple Daily Tasks That Will Make Your Crowdfunding Campaign Shine :)"],
+                    strings: ["Hi There, ^500 I'm BlingChat, The First Engagement Ring Bot. ^500", 
+                    "Chat With Me on Facebook Messenger to Discover and Show Gorgeous Engagement Rings :)"],
                     typeSpeed: 25
 
                 });
